@@ -3,7 +3,7 @@
 
 p {font-family: Verdana;}
 h1 {font-family: Verdena; font-size: 40px; color:purple; background-color: green; text-transform: uppercase;} 
-h2 {font-style: italic; color:purple;}
+h2 {font-style: italic; color:purple; font-style: 14px;}
 h3 {font-weight; normal; color: blue;}
 
 ul{list-style-type: none; margin:0; padding:0;}
